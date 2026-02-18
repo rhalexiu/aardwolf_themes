@@ -2,5 +2,9 @@
 themes ive made in aardwolf cause i was procrastinating
 
 -------
-## Polendina
-- green tech theme
+## Theme List
+- **Polendina**
+	green tech-y theme
+- **Lambda**
+	crowbar theme
+
