@@ -3,7 +3,9 @@ themes ive made in mushclient cause i was procrastinating
 
 ## Theme List
 - **Polendina** -- green tech-y theme based on a certain robot
+
 - **Lambda** -- crowbar theme, need i say more?
+
 
 ## Usage
 1. Download ZIP of the theme repo.
@@ -12,3 +14,9 @@ themes ive made in mushclient cause i was procrastinating
 my MUSHclient installation.
 
 3. Start MUSHclient, enter `aard theme change` and select your new theme!
+
+## Theme Previews
+### Polendina
+![Polendia theme preview](https://i.imgur.com/y5EoKdN.png)
+### Lambda
+![Lambda theme preview](https://i.imgur.com/rkM844N.png)
